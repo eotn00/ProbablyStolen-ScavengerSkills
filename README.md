@@ -1,11 +1,13 @@
 # 拾荒拓展 / Scavenging Expansion
 
+**简体中文** | [English](README.en.md)
+
 《深空当铺 / Probably Stolen》的技能树、多功能背包与焚化炉 Mod。
 
 本仓库用于**正式版下载和问题反馈**，不提供源码。
 
 - **[下载最新正式版](https://github.com/eotn00/ProbablyStolen-ScavengerSkills/releases/latest)**：在 Assets 中下载 `ScavengerSkills-版本号.zip`，不要下载 GitHub 自动生成的 Source code 压缩包。
-- **[反馈问题](https://github.com/eotn00/ProbablyStolen-ScavengerSkills/issues/new/choose)**：请说明实际遇到的问题，并上传复现后的 `Player.log`。
+- **[中文问题反馈](https://github.com/eotn00/ProbablyStolen-ScavengerSkills/issues/new?template=bug-report.yml)** / [Report a bug in English](https://github.com/eotn00/ProbablyStolen-ScavengerSkills/issues/new?template=bug-report.en.yml)：请说明实际遇到的问题，并上传复现后的 `Player.log`。
 - [Steam 创意工坊](https://steamcommunity.com/sharedfiles/filedetails/?id=3832768562)
 - [搭配使用：改造权](https://github.com/eotn00/ProbablyStolen-RetrofitRights)
 
